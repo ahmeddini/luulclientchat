@@ -1,7 +1,26 @@
-#  luulclientchat
+#  rnLuulNewApp
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 
 * Standard compliant React Native App Utilizing [Ignite](https://github.com/infinitered/ignite) and [Ignite Jhipster](https://github.com/ruddell/ignite-jhipster)
+
+## :arrow_up: ENVIRONMENT SETUP
+
+### INSTALLING JHIPSTER
+
+> Full instructions for installing JHipster can be found in the [Jhipster Docs](https://jhipster.github.io/)
+
+### INSTALLING IGNITE
+
+ > Ignite requires [NodeJS v7+]()
+
+ `npm install -g ignite-cli`
+
+## REACT NATIVE SETUP
+
+> React Native requires Watchman to be installed. Follow their installation guide for full instructions. It also requires the react-native-cli, installed with:
+
+  `npm install -g react-native-cli`
+
 
 ## :arrow_up: How to Setup
 
