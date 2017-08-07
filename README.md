@@ -4,6 +4,14 @@
 * Standard compliant React Native App Utilizing [Ignite](https://github.com/infinitered/ignite) and [Ignite Jhipster](https://github.com/ruddell/ignite-jhipster)
 
 ## :arrow_up: ENVIRONMENT SETUP
+### Installing dependencies 
+>You will need Node, the React Native command line interface, a JDK, and Android Studio.
+
+## Ubuntu 
+
+**Step 1:** Node 
+
+Follow the installation instructions for your Ubuntu distribution to install Node or newer. [Click here](https://tecadmin.net/install-latest-nodejs-npm-on-debian/) 
 
 ### INSTALLING JHIPSTER
 
